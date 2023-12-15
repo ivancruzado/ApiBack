@@ -1,13 +1,13 @@
 ## Variables de Entorno:
 
-- SECRET:
+- SECRET: secret definido
 - DATABASE1: link de conexion a base de datos de mongoDB con credenciales
- - DATABASE2
-- DATABASE3
-- DATABASE4
-- HOST
-- PORT
-- DATABASE_NAME: Nombre que quieras para la base de datos
+- DATABASE2=TestUser?retryWrites
+- DATABASE3=true&w
+- DATABASE4=majority
+- HOST=127.0.0.1
+- PORT=4000
+- DATABASE_NAME: TestUser
 - DB_PORT: puerto para la base de datos
 - CLODINARY_NAME: Nombre de cuenta de cloudinary
 - API_KEY_CLOUDINARY: Api key de tu cuenta de cloudinary
